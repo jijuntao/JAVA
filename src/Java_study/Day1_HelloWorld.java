@@ -1,6 +1,6 @@
 package Java_study;
 
-public class HelloWorld {
+public class Day1_HelloWorld {
     //类的声明
     //代码必须写在类中
     public static void main(String[] args){
